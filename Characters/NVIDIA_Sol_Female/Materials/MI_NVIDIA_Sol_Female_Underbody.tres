@@ -1,0 +1,14 @@
+[gd_resource type="ORMMaterial3D" format=3 uid="uid://lxxkahrbd0oc"]
+
+[ext_resource type="Texture2D" uid="uid://0tp33n4b7wtx" path="res://Characters/NVIDIA_Sol_Female/Textures/T_NVIDIA_Sol_Female_Underbody_A.png" id="1_y5kev"]
+[ext_resource type="Texture2D" uid="uid://c1i61yi2g2133" path="res://Characters/NVIDIA_Sol_Female/Textures/T_NVIDIA_Sol_Female_Underbody_N.png" id="2_61067"]
+[ext_resource type="Texture2D" uid="uid://tigsd5smxe3o" path="res://Characters/NVIDIA_Sol_Female/Textures/T_NVIDIA_Sol_Female_Underbody_ORM.png" id="3_o16nn"]
+
+[resource]
+cull_mode = 2
+albedo_texture = ExtResource("1_y5kev")
+orm_texture = ExtResource("3_o16nn")
+normal_enabled = true
+normal_texture = ExtResource("2_61067")
+ao_enabled = true
+ao_light_affect = 1.0

@@ -1,0 +1,82 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://0ebgwhymvbmi"
+path="res://.godot/imported/NVIDIA_Sol_Female_LOD_0.fbx-f52bce40beea8459b9ce42325e21fa8b.scn"
+
+[deps]
+
+source_file="res://Characters/NVIDIA_Sol_Female/Meshes/NVIDIA_Sol_Female_LOD_0.fbx"
+dest_files=["res://.godot/imported/NVIDIA_Sol_Female_LOD_0.fbx-f52bce40beea8459b9ce42325e21fa8b.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/root_script=null
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+nodes/use_name_suffixes=true
+nodes/use_node_type_suffixes=true
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=true
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path=""
+materials/extract=0
+materials/extract_format=0
+materials/extract_path=""
+_subresources={
+"materials": {
+"NVIDIA_Sol_Female_Arms": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Characters/NVIDIA_Sol_Female/Materials/MI_NVIDIA_Sol_Female_Arms.tres",
+"use_external/path": "uid://mxhftqvacvom"
+},
+"NVIDIA_Sol_Female_Feet": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Characters/NVIDIA_Sol_Female/Materials/MI_NVIDIA_Sol_Female_Feet.tres",
+"use_external/path": "uid://cmuqll1rgql2l"
+},
+"NVIDIA_Sol_Female_Hands": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Characters/NVIDIA_Sol_Female/Materials/MI_NVIDIA_Sol_Female_Hands.tres",
+"use_external/path": "uid://d2ntd3ccgkh4p"
+},
+"NVIDIA_Sol_Female_Helmet": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Characters/NVIDIA_Sol_Female/Materials/MI_NVIDIA_Sol_Female_Helmet.tres",
+"use_external/path": "uid://ddfxfp7w7c3bi"
+},
+"NVIDIA_Sol_Female_Legs": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Characters/NVIDIA_Sol_Female/Materials/MI_NVIDIA_Sol_Female_Legs.tres",
+"use_external/path": "uid://cuab2t02hr5p6"
+},
+"NVIDIA_Sol_Female_Torso": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Characters/NVIDIA_Sol_Female/Materials/MI_NVIDIA_Sol_Female_Torso.tres",
+"use_external/path": "uid://dvy6ihrj4e0h4"
+},
+"NVIDIA_Sol_Female_Underbody": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Characters/NVIDIA_Sol_Female/Materials/MI_NVIDIA_Sol_Female_Underbody.tres",
+"use_external/path": "uid://lxxkahrbd0oc"
+}
+}
+}
+fbx/importer=0
+fbx/allow_geometry_helper_nodes=false
+fbx/embedded_image_handling=1
+fbx/naming_version=2

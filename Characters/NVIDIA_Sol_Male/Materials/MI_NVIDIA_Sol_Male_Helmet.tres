@@ -1,0 +1,17 @@
+[gd_resource type="ORMMaterial3D" format=3 uid="uid://cxx7wb4sj22y4"]
+
+[ext_resource type="Texture2D" uid="uid://cd50s8fkjaj7m" path="res://Characters/NVIDIA_Sol_Male/Textures/T_NVIDIA_Sol_Male_Helmet_A.png" id="1_jgq4y"]
+[ext_resource type="Texture2D" uid="uid://cbft0iab3ugpc" path="res://Characters/NVIDIA_Sol_Male/Textures/T_NVIDIA_Sol_Male_Helmet_BN.png" id="2_7rm7y"]
+[ext_resource type="Texture2D" uid="uid://c4qwoydmvmto5" path="res://Characters/NVIDIA_Sol_Male/Textures/T_NVIDIA_Sol_Male_Helmet_N.png" id="2_s3j2g"]
+[ext_resource type="Texture2D" uid="uid://dggtv0d43xpnl" path="res://Characters/NVIDIA_Sol_Male/Textures/T_NVIDIA_Sol_Male_Helmet_ORM.png" id="3_7rm7y"]
+
+[resource]
+cull_mode = 2
+albedo_texture = ExtResource("1_jgq4y")
+orm_texture = ExtResource("3_7rm7y")
+normal_enabled = true
+normal_texture = ExtResource("2_s3j2g")
+bent_normal_enabled = true
+bent_normal_texture = ExtResource("2_7rm7y")
+ao_enabled = true
+ao_light_affect = 1.0
